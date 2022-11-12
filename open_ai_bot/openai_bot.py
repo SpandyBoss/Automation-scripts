@@ -2,7 +2,7 @@ from cmd import PROMPT
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 
 
 input_usr = ""
